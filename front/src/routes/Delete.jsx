@@ -34,7 +34,7 @@ const Delete = ({ history, match }) => {
         class="btn btn-outline-secondary"
         onClick={() => moveLinkHandler()}
       >
-        아니요
+        아니요.
       </button>
     </div>
   );
